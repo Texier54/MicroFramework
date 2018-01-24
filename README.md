@@ -24,7 +24,7 @@ Clone le depot git — git clone https://github.com/Texier54/Mecado
 
 ## Fait avec
 
-* [Eloquent](https://laravel.com/docs/5.0/eloquent) - Framework PhP
+* [Eloquent](https://laravel.com/docs/5.0/eloquent) - ORM
 
 ## Autheur
 
